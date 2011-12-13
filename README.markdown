@@ -14,4 +14,4 @@ This wallpaper should 'work' with both the dark and the light theme of [solarize
 
 Thanks to [@EspadaV8](https://github.com/Espadav8 "@EspadaV8") there's a dark version of this wallpaper now as well.
 
-![Dark Background](http://img220.imageshack.us/img220/9562/darkbackground.png)
+![Dark Background](http://img193.imageshack.us/img193/9562/darkbackground.png)
