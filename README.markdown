@@ -11,3 +11,7 @@ should be fine. For example:
 ![Screenshot_with_vim](http://img860.imageshack.us/img860/5792/bildschirmfoto20110402u.png)
 
 This wallpaper should 'work' with both the dark and the light theme of [solarized](https://github.com/altercation/solarized). OmniGraffle files are included if you feel like customizing this to your own vim colorscheme. 
+
+Thanks to [@EspadaV8](https://github.com/Espadav8 "@EspadaV8") there's a dark version of this wallpaper now as well.
+
+![Dark Background](http://img220.imageshack.us/img220/9562/darkbackground.png)
