@@ -15,3 +15,8 @@ This wallpaper should 'work' with both the dark and the light theme of [solarize
 Thanks to [@EspadaV8](https://github.com/Espadav8 "@EspadaV8") there's a dark version of this wallpaper now as well.
 
 ![Dark Background](http://img193.imageshack.us/img193/9562/darkbackground.png)
+
+There is also a version with a 'real' background based on tremblingpixels'
+[breathe](http://browse.deviantart.com/customization/wallpaper/?q=breathe#/d4cae4w) wallpaper now:
+
+![With Background](http://img193.imageshack.us/img193/3756/vimwallpaperbackground.png)
