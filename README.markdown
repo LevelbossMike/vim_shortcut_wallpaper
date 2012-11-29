@@ -20,3 +20,7 @@ There is also a version with a 'real' background based on tremblingpixels'
 [breathe](http://browse.deviantart.com/customization/wallpaper/?q=breathe#/d4cae4w) wallpaper now:
 
 ![With Background](http://img193.imageshack.us/img193/3756/vimwallpaperbackground.png)
+
+We also have a version that preserves the gradient of the original, but changes the color to a nice soothing blue:
+
+![blue gradient](http://i.imgur.com/fiAp9.png)
