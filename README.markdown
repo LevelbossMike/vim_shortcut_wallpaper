@@ -1,4 +1,4 @@
-A vim cheat sheet wallpaper based on a wallpaper by [Ted Naleid](http://naleid.com/blog/2010/10/04/vim-movement-shortcuts-wallpaper/). Colors are based on [solarized](https://github.com/altercation/solarized) which makes looking at it even more aaaawesome.
+A vim cheat sheet wallpaper based on a wallpaper by [Ted Naleid](https://www.naleid.com/2010/10/04/vim-movement-shortcuts-wallpaper.html). Colors are based on [solarized](https://github.com/altercation/solarized) which makes looking at it even more aaaawesome.
 
 ![Screenshot_without_vim](https://dl.dropboxusercontent.com/s/nv50odms2rqwv1s/vim-shortcuts_1280x800.png)
 
